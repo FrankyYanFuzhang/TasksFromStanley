@@ -3,7 +3,7 @@
 file=$1
 
 echo "1 - Lower to upper"
-echo "2 - Uower to lower"
+echo "2 - Upper to lower"
 read -p "pls choose an option: " op
 
 case $op in
